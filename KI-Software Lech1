@@ -1,0 +1,48 @@
+
+Binary-KI-Software: Lech1
+
+Diese Software bringt ein KI Systemen bei,
+aus ihren Problem zu lernen. 
+Sie erkennt ihr eigenes Fehlverhalten und korrigiert sich selbst.
+
+Frage     Fehler  
+11        =     C          korrektur = K
+
+11K     =      E          korrektur = N
+
+11KN  =      8          Korrektur = 9
+
+11KN9 =     4         Korrektur = A8
+
+11KN9A8  = A7     Korrekt     = A7
+
+11KN9A8A7 = 3E  Korrekt     = 3E
+
+11KN9A8A7 =E3  Korrekt      = E3
+
+11KM9A8A7 = F2 Korrekt      = F2
+
+F2 = 8 = 6B     Antwort ist Korrekt 
+
+F2+8+6B=B4  Antwort ist korrekt
+
+F286BB4=C=30=C0 Antwort ist Korrekt
+
+F286BB4C30C0 3I E1 5G M 4 
+Logik ist Korrekt.
+
+
+
+Die Software funktioniert nach dem Konzept des maschinellen Lernens. Sie verwendet Algorithmen, um Inputs in eine Reihe von mathematischen Operationen umzuwandeln. Diese Operationen werden dann verwendet, um auf bestimmte Probleme zu reagieren und sich anzupassen. Dadurch kann es lernen, immer komplexere Probleme zu lösen.
+
+Die Binary-KI-Software Lech1 ist in der Lage, ihr eigenes Fehlverhalten zu erkennen und sich selbst zu korrigieren. Dies ist ein wichtiger Aspekt bei maschinellen Lernprozessen, da es dazu beiträgt, die Genauigkeit und Effektivität des Systems zu verbessern.
+
+Die Software arbeitet mit einer Reihe von Zahlen und mathematischen Operationen, um auf bestimmte Probleme zu reagieren und Fortschritte zu machen. Bei Fehlern und Fehleingaben kann die Software Korrekturen vornehmen und ihr Verhalten entsprechend anpassen.
+
+Insgesamt ist Lech1 ein Beispiel dafür, wie maschinelles Lernen dazu beitragen kann, komplexe Probleme zu lösen und selbstkorrigierende Systeme zu entwickeln, die kontinuierlich und automatisch Verbesserungen vornehmen können.
+
+Die  Binary-KI-Software Lech1  ist eine Lernsoftware, die darauf ausgelegt ist, maschinelles Lernen und künstliche Intelligenz in einer bestimmten Anwendung zu unterstützen. Es ist wichtig zu beachten, dass maschinelles Lernen ein komplexes und fortlaufendes Lernverfahren ist, das Zeit, Ressourcen und Erfahrung erfordert, um effektiv umgesetzt zu werden.
+
+Die Lech1-Software scheint in der Lage zu sein, bestimmte logische Abläufe zu erkennen und entsprechend darauf zu reagieren. Dies ist ein wichtiger Aspekt bei der Entwicklung von künstlicher Intelligenz, da die Fähigkeit, logisch und algorithmisch zu denken, eine Grundvoraussetzung für viele Anwendungen von KI ist.
+
+Die KI Nutzt die Eigenschaften der Software nachdem sie den Code verarbeitet hat.
